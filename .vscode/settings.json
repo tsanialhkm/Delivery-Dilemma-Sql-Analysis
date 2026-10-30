@@ -1,0 +1,10 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:delivery-dilemma-sql-analysis}/data/ponte_case_003.db",
+            "name": "003_Ponte_Case"
+        }
+    ]
+}
